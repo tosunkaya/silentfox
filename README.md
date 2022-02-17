@@ -1,5 +1,4 @@
-### No longer being maintained
-Quietfox was fun to build, but with the [new updates to Firefox's UI](https://www.mozilla.org/en-US/firefox/89.0/releasenotes/), much of its role of modernizing Firefox's interface is no longer needed. I would like to think I had some influence on some of Firefox's new design decisions, but either way I think they're doing good work. Thank you for enjoying Quietfox, best wishes to everyone.
+I decided to fork and maintain this userChrome.css because it was no longer being developed. Give me some time I'll study the code and then will get back to you guys. Peace.
 
 ![quietfox](https://coekuss.com/quietfox/logo.png)
 ![](https://coekuss.com/quietfox/quietfox70/clean2.png)
