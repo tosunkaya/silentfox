@@ -1,4 +1,4 @@
-I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). I'm weak in CSS so I won't be able to change everything. I need to update the README too so please give me some time.
+I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). I'm weak in CSS so I won't be able to change everything. I am updating the README too. Peace ✌️.
 
 ## The Goal
 This is silentfox, it is a fork of the now dead project called quietfox. I decided to update it and maintain it.
