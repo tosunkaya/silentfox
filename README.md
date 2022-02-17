@@ -1,7 +1,4 @@
-I decided to fork and maintain this userChrome.css because it was no longer being developed. Give me some time I'll study the code and then will get back to you guys. Peace.
-
-![quietfox](https://coekuss.com/quietfox/logo.png)
-![](https://coekuss.com/quietfox/quietfox70/clean2.png)
+I decided to fork and maintain this userChrome.css because it was no longer being developed. Give me some time I'll study the code and then will get back to you guys. I need to update the README too so please give me some time.
 
 ## The Goal
 This userChrome mod was created to make the Firefox UI cleaner and more modern without sacrificing any of its original features. You can still use themes, and you can still use Compact Mode and Touch Mode. You can pretty much forget that you have a mod installed, it works *quietly* in the background. Here are some of the notable features:
@@ -20,7 +17,6 @@ Simply open userChrome.css in a text editor and change the values at the top of 
     --button-corner-rounding: 20px;
     --animation-speed: 0.4s;
 ```
-![](https://coekuss.com/quietfox/quietfox70/fluid2.gif)
 
 <br>
 
@@ -32,7 +28,6 @@ Simply open userChrome.css in a text editor and change the values at the top of 
     --button-corner-rounding: 0px;
     --animation-speed: 0.0s;
 ```
-![](https://coekuss.com/quietfox/quietfox70/snappy2.gif)
 
 ### Menu Customizations
 ```CSS
@@ -45,7 +40,6 @@ Simply open userChrome.css in a text editor and change the values at the top of 
 ```
 
 <p align="center">
-    <img src="https://coekuss.com/quietfox/tall_rounded.png">
 </p>
 
 <br>
@@ -59,28 +53,24 @@ Simply open userChrome.css in a text editor and change the values at the top of 
     /* --animation-speed: 0.4s;        */
 ```
 <p align="center">
-    <img src="https://coekuss.com/quietfox/short_sharp.png">
 </p>
 
 
 ## Theme-adapted menus
-![](https://coekuss.com/quietfox/menus72.jpg)
 
 ## Address bar buttons appear when needed
-![](https://coekuss.com/quietfox/urlbar_buttons.gif)
 
 
 
 ## How to install
-1. [Download](https://github.com/coekuss/quietfox/releases/latest/download/quietfox.zip) and unzip
+1. [Download](https://github.com/themoonmeetsthesun/silentfox/releases/latest/download/quietfox.zip) and unzip
 2. Go to `about:support` in Firefox and open your Profile Folder
 3. Drop your unzipped "chrome" folder into the folder that appears
 4. Go to `about:config` in your Firefox and set the value of `toolkit.legacyUserProfileCustomizations.stylesheets` to `true` (this enables the loading of userChrome mods)
 5. Restart Firefox
 
 
-✔ Tested on Firefox 87 on Windows 10 and Ubuntu 19.10
-
+I need to test it 😅.
 ---
 
 ### Older version
@@ -90,8 +80,4 @@ If you need Quietfox for an older version of Firefox, [see the releases page.](h
 Although deliberate effort has been put into making this mod work with most themes, some transparent themes make menu text hard to read. Transparent themes also make the bottom corners of rounded tabs look wonky, so the file includes instructions to remove tabs' bottom corner rounding if you encounter this issue.
 
 ## P. S.
-This mod is the product of many late nights of zen laser focus. If it enhances your web experience, consider donating a small sum to show your support ❤
-
-<img align="top" width="25px" src="https://coekuss.com/quietfox/bitcoin.png"> Bitcoin: 1Lc5r26FTwWSLNH46fE5WH3mvFjNUcHGzi
-
-<img align="top" width="20px" src="https://coekuss.com/quietfox/paypal.png"> PayPal: [paypal.me/coekuss](https://paypal.me/coekuss)
+If you have any issues you can post the issue in the issues section.
