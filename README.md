@@ -1,8 +1,11 @@
-I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). Give me some time I'll study the code and then will get back to you guys (I'm weak in CSS so I won't be able to change everything). I need to update the README too so please give me some time.
+I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). I'm weak in CSS so I won't be able to change everything. I need to update the README too so please give me some time.
 
 ## The Goal
-This userChrome mod was created to make the Firefox UI cleaner and more modern without sacrificing any of its original features. You can still use themes, and you can still use Compact Mode and Touch Mode. You can pretty much forget that you have a mod installed, it works *quietly* in the background. Here are some of the notable features:
+This is silentfox, it is a fork of the now dead project called quietfox. I decided to update it and maintain it.
 
+## But what is this??
+This is a userChrome.css theme to make your firefox look a lot more cleaner then it was.
+![]()
 
 ## Customizable values 
 Simply open userChrome.css in a text editor and change the values at the top of the file. Restart Firefox to see changes.
