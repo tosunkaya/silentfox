@@ -1,4 +1,4 @@
-I decided to fork and maintain this userChrome.css because it was no longer being developed. Give me some time I'll study the code and then will get back to you guys. I need to update the README too so please give me some time.
+I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). Give me some time I'll study the code and then will get back to you guys. I need to update the README too so please give me some time.
 
 ## The Goal
 This userChrome mod was created to make the Firefox UI cleaner and more modern without sacrificing any of its original features. You can still use themes, and you can still use Compact Mode and Touch Mode. You can pretty much forget that you have a mod installed, it works *quietly* in the background. Here are some of the notable features:
