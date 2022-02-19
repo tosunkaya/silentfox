@@ -72,7 +72,7 @@ Simply open userChrome.css in a text editor and change the values at the top of 
 4. Restart Firefox
 
 
-Tested with Firefox 97
+Tested with Firefox 97 and Firefox nightly 99
 ---
 
 ### Older version
