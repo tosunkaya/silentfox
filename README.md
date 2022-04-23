@@ -1,4 +1,4 @@
-I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). I'm weak in CSS so I won't be able to change everything. I am updating the README too. Peace ✌️.
+I decided to fork and maintain this userChrome.css because it was no longer being developed (I don't like dead projects). I'm weak in CSS so I won't be able to improve everything. I am updating the README too. Peace ✌️.
 
 ## The Goal
 This is silentfox, it is a fork of the now dead project called quietfox. I decided to update it and maintain it.
@@ -72,7 +72,7 @@ Simply open userChrome.css in a text editor and change the values at the top of 
 4. Restart Firefox
 
 
-Tested with Firefox 97 and Firefox nightly 99
+Tested with Firefox 98
 ---
 
 ### Older version
