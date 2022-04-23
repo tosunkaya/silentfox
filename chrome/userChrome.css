@@ -1,6 +1,6 @@
 /*
 
-Quietfox for Firefox 97
+Quietfox for Firefox 99
 
 https://github.com/themoonmeetsthesun/silentfox
 all credits go to coekuss for this
@@ -21,8 +21,8 @@ Thanks for using my file
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
-/* Bottom corner rounding for tabs, Remove this section if your tab bottom corners look bad */
-tab[visuallyselected] .tab-background::before,
+/* code turned off because the tabs were looking shitty */
+/*tab[visuallyselected] .tab-background::before,
 tab[visuallyselected] .tab-background::after {
     content: "" !important;
     display: inline !important;
@@ -48,7 +48,7 @@ tab[visuallyselected] .tab-background::after {
     transform: translateX(calc(var(--tab-corner-rounding) + 1px)) !important;
     box-shadow: -4px 4px 0px 4px var(--toolbar-bgcolor) !important;
     transition: var(--animation-speed) !important;
-}
+}*/
 /* --------------------------------------------------------------------------------------- */
 
 
@@ -517,7 +517,7 @@ toolbarbutton:not(.titlebar-button):not([class^="findbar-find"]):not([class^="sc
 
 
 /* style address bar */
-#urlbar-background {
+/*#urlbar-background {
     background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
@@ -539,7 +539,7 @@ toolbarbutton:not(.titlebar-button):not([class^="findbar-find"]):not([class^="sc
     margin-bottom: -5px !important;
     margin-top: -1px !important;
 }
-
+*/
 /* urlbarView = the menu when you expand the address bar */
 .urlbarView {
     width: 100% !important;
@@ -621,12 +621,6 @@ toolbarbutton:not(.titlebar-button):not([class^="findbar-find"]):not([class^="sc
 .urlbar-input-box {
     padding: 0px 5px !important;
 }
-
-#urlbar {
-    background-color: transparent !important;
-    color: var(--lwt-toolbar-field-color, black) !important;
-}
-
 
 #urlbar:not(.hidden-focus)[focused="true"] {
     background-color: var(--toolbarbutton-hover-background) !important;
