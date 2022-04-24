@@ -4,7 +4,7 @@ I decided to fork and maintain this userChrome.css because it was no longer bein
 This is silentfox, it is a fork of the now dead project called quietfox. I decided to update it and maintain it.
 
 ## But what is this??
-This is a userChrome.css theme to make your firefox look a lot more cleaner then it was.
+This is a userChrome.css theme to make your firefox look a lot more cleaner than it was.
 ![]()
 
 ## Customizable values 
